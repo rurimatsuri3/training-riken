@@ -1,5 +1,5 @@
 # Intro to training 
-
+# git hub excersise by Yoko Morii
 * Installation
 	- check installation: local or docker 
 	- check who knows what
