@@ -12,6 +12,7 @@
 	- Git/github
 		- After fork, mkdir xx, git clone https://github.com/jbpoline/training-riken
 		- create .netrc to pass user&password input
+		- push after modification
 		[From NHW](https://github.com/neurohackweek/git-and-github)
 	- numpy, stats module in scipy, matplotlib
 		[numpy from nipype workshop](http://nbviewer.jupyter.org/github/nipy/workshops/blob/master/170327-nipype/notebooks/numpy-advanced/numpy_advanced_py3.ipynb)
