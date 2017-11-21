@@ -3,6 +3,7 @@
 * Installation
 	- check installation: local or docker 
 	- check who knows what
+        - I think you should add this part :):) Carlos. 
 
 * p-value questionnaire
 		[Start here](http://www.reproducibleimaging.org/module-stats/03-p-values/)
